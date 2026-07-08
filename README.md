@@ -33,8 +33,4 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sktx1216&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
 
-## Trophy Metrics
-
-<img src="https://github-profile-trophy.vercel.app/?username=sktx1216&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
-
 </div>
