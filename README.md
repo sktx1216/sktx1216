@@ -1,6 +1,6 @@
 <div align="center">
 
-# sktx1216
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:2EA44F&text=GitHub%20Metrics&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=sktx1216%20%7C%20Public%20Profile%20Dashboard&descAlignY=58&descSize=16" alt="GitHub Metrics" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sktx1216&style=for-the-badge&color=0e75b6)
 ![Followers](https://img.shields.io/github/followers/sktx1216?style=for-the-badge&logo=github)
