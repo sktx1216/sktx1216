@@ -1,0 +1,71 @@
+<svg width="920" height="560" viewBox="0 0 920 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="920" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2EA44F"/>
+      <stop offset="1" stop-color="#58A6FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#010409" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="920" height="560" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="918" height="558" rx="21" stroke="#30363D" stroke-width="2"/>
+
+  <text x="42" y="58" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Project Overview</text>
+  <text x="42" y="88" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="15">Public source projects and what each one does</text>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="124" width="398" height="158" rx="14" fill="#0D1117" stroke="#30363D"/>
+    <rect x="42" y="124" width="6" height="158" rx="3" fill="url(#accent)"/>
+    <text x="68" y="160" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">kis-auto-trading-template</text>
+    <text x="68" y="190" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">KIS overseas stock auto-trading template</text>
+    <text x="68" y="216" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="14">Scanner, token manager, market hours, portfolio export</text>
+    <rect x="68" y="238" width="76" height="24" rx="12" fill="#1F6FEB"/>
+    <text x="91" y="255" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Python</text>
+    <rect x="154" y="238" width="94" height="24" rx="12" fill="#238636"/>
+    <text x="174" y="255" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Trading</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="480" y="124" width="398" height="158" rx="14" fill="#0D1117" stroke="#30363D"/>
+    <rect x="480" y="124" width="6" height="158" rx="3" fill="url(#accent)"/>
+    <text x="506" y="160" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">customer-voice-board-alert</text>
+    <text x="506" y="190" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">Customer voice board alert automation</text>
+    <text x="506" y="216" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="14">Detects new board posts and sends email notifications</text>
+    <rect x="506" y="238" width="76" height="24" rx="12" fill="#1F6FEB"/>
+    <text x="529" y="255" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Python</text>
+    <rect x="592" y="238" width="82" height="24" rx="12" fill="#8957E5"/>
+    <text x="611" y="255" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Alert</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="316" width="398" height="158" rx="14" fill="#0D1117" stroke="#30363D"/>
+    <rect x="42" y="316" width="6" height="158" rx="3" fill="url(#accent)"/>
+    <text x="68" y="352" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">youtube-community-monitor</text>
+    <text x="68" y="382" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">Hoyoverse redeem-code monitor</text>
+    <text x="68" y="408" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="14">Tracks YouTube community posts for new redeem codes</text>
+    <rect x="68" y="430" width="76" height="24" rx="12" fill="#1F6FEB"/>
+    <text x="91" y="447" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Python</text>
+    <rect x="154" y="430" width="92" height="24" rx="12" fill="#DA3633"/>
+    <text x="176" y="447" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Monitor</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="480" y="316" width="398" height="158" rx="14" fill="#0D1117" stroke="#30363D"/>
+    <rect x="480" y="316" width="6" height="158" rx="3" fill="#8B949E"/>
+    <text x="506" y="352" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">kis-portfolio-data</text>
+    <text x="506" y="382" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">Auto-trading portfolio data repository</text>
+    <text x="506" y="408" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="14">Dashboard JSON, decision logs, and public docs</text>
+    <rect x="506" y="430" width="68" height="24" rx="12" fill="#6E7681"/>
+    <text x="528" y="447" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Data</text>
+    <rect x="584" y="430" width="70" height="24" rx="12" fill="#A371F7"/>
+    <text x="603" y="447" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Docs</text>
+  </g>
+
+  <text x="42" y="526" fill="#6E7681" font-family="Segoe UI, Arial, sans-serif" font-size="13">Updated from public repositories: source projects first, data repository separated.</text>
+</svg>

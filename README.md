@@ -19,42 +19,9 @@
 ![Python](https://img.shields.io/badge/Python-3%20repos-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Main Template Language](https://img.shields.io/github/languages/top/sktx1216/kis-auto-trading-template?style=for-the-badge)
 
-## Source Tree
+## Project Overview
 
-<pre align="left"><code>sktx1216
-|-- kis-auto-trading-template
-|   |-- .github/workflows/auto-trader.yml
-|   |-- auto_trader.py
-|   |-- scanner.py
-|   |-- portfolio_exporter.py
-|   |-- kis_overseas.py
-|   |-- token_manager.py
-|   |-- market_hours.py
-|   |-- config.py
-|   |-- universe.py
-|   |-- docs/
-|   |   `-- system_architecture.md
-|   `-- tests/
-|       |-- test_strategy_logic.py
-|       `-- test_token_manager.py
-|-- customer-voice-board-alert
-|   |-- .github/workflows/board-alert.yml
-|   |-- check_board.py
-|   `-- requirements.txt
-|-- youtube-community-monitor
-|   |-- .github/workflows/yoytube-monitor.yml
-|   |-- monitor_youtube_posts.py
-|   |-- seen_posts.json
-|   `-- requirements.txt
-`-- kis-portfolio-data
-    |-- portfolio.json
-    |-- portfolio_dashboard.json
-    |-- cash_flows.json
-    |-- trader_state.json
-    |-- decision_log.json
-    |-- decision_logs/
-    `-- docs/
-</code></pre>
+![Project Overview](./assets/project-overview.svg)
 
 ## Repository Metrics
 
