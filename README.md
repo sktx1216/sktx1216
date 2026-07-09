@@ -8,7 +8,7 @@
 
 ## GitHub Metrics
 
-![Public Repositories](https://img.shields.io/badge/Public%20Repos-3-2ea44f?style=for-the-badge&logo=github)
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-5-2ea44f?style=for-the-badge&logo=github)
 ![Total Stars](https://img.shields.io/github/stars/sktx1216?affiliations=OWNER&style=for-the-badge&logo=github)
 ![Last Profile Update](https://img.shields.io/github/last-commit/sktx1216/sktx1216?style=for-the-badge&logo=github&label=Profile%20Updated)
 
@@ -16,10 +16,55 @@
 
 ## Language Metrics
 
-![Python](https://img.shields.io/badge/Python-1%20repo-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Primary Language](https://img.shields.io/github/languages/top/sktx1216/youtube-community-monitor?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3%20repos-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Main Template Language](https://img.shields.io/github/languages/top/sktx1216/kis-auto-trading-template?style=for-the-badge)
+
+## Source Tree
+
+<pre align="left"><code>sktx1216
+|-- kis-auto-trading-template
+|   |-- .github/workflows/auto-trader.yml
+|   |-- auto_trader.py
+|   |-- scanner.py
+|   |-- portfolio_exporter.py
+|   |-- kis_overseas.py
+|   |-- token_manager.py
+|   |-- market_hours.py
+|   |-- config.py
+|   |-- universe.py
+|   |-- docs/
+|   |   `-- system_architecture.md
+|   `-- tests/
+|       |-- test_strategy_logic.py
+|       `-- test_token_manager.py
+|-- customer-voice-board-alert
+|   |-- .github/workflows/board-alert.yml
+|   |-- check_board.py
+|   `-- requirements.txt
+|-- youtube-community-monitor
+|   |-- .github/workflows/yoytube-monitor.yml
+|   |-- monitor_youtube_posts.py
+|   |-- seen_posts.json
+|   `-- requirements.txt
+`-- kis-portfolio-data
+    |-- portfolio.json
+    |-- portfolio_dashboard.json
+    |-- cash_flows.json
+    |-- trader_state.json
+    |-- decision_log.json
+    |-- decision_logs/
+    `-- docs/
+</code></pre>
 
 ## Repository Metrics
+
+![kis-auto-trading-template Last Commit](https://img.shields.io/github/last-commit/sktx1216/kis-auto-trading-template?style=for-the-badge&logo=github&label=kis-auto-trading-template)
+![kis-auto-trading-template Repo Size](https://img.shields.io/github/repo-size/sktx1216/kis-auto-trading-template?style=for-the-badge&logo=github)
+![kis-auto-trading-template Stars](https://img.shields.io/github/stars/sktx1216/kis-auto-trading-template?style=for-the-badge&logo=github)
+
+![customer-voice-board-alert Last Commit](https://img.shields.io/github/last-commit/sktx1216/customer-voice-board-alert?style=for-the-badge&logo=github&label=customer-voice-board-alert)
+![customer-voice-board-alert Repo Size](https://img.shields.io/github/repo-size/sktx1216/customer-voice-board-alert?style=for-the-badge&logo=github)
+![customer-voice-board-alert Stars](https://img.shields.io/github/stars/sktx1216/customer-voice-board-alert?style=for-the-badge&logo=github)
 
 ![youtube-community-monitor Last Commit](https://img.shields.io/github/last-commit/sktx1216/youtube-community-monitor?style=for-the-badge&logo=github&label=youtube-community-monitor)
 ![youtube-community-monitor Repo Size](https://img.shields.io/github/repo-size/sktx1216/youtube-community-monitor?style=for-the-badge&logo=github)
