@@ -23,13 +23,11 @@
 
 ![Project Overview](./assets/project-overview.svg)
 
-## sktx-hub
+## Stock Portfolio
 
 ![Portfolio Summary](https://sktx-hub.vercel.app/api/readme-portfolio?v=20260710)
 
 [Live Dashboard](https://sktx-hub.vercel.app)
-
-Stock portfolio dashboard that automatically visualizes portfolio allocation, cash flow, and investment P/L from GitHub-hosted JSON data.
 
 ## Repository Metrics
 
