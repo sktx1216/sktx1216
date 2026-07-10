@@ -23,6 +23,16 @@
 
 ![Project Overview](./assets/project-overview.svg)
 
+## sktx-hub
+
+![Portfolio Summary](https://YOUR-VERCEL-DOMAIN.vercel.app/api/readme-portfolio?v=20260710)
+
+[Live Dashboard](https://YOUR-VERCEL-DOMAIN.vercel.app)
+
+주식 포트폴리오, 현금 흐름, 투자 손익을 GitHub JSON 기반으로 자동 시각화하는 포트폴리오 대시보드입니다.
+
+<sub>README에서는 JavaScript fetch 대신 SVG API 이미지 URL을 직접 사용합니다. 캐시 갱신이 필요하면 <code>/api/readme-portfolio?v=20260710</code>처럼 쿼리스트링을 바꿔주세요.</sub>
+
 ## Repository Metrics
 
 ![kis-auto-trading-template Last Commit](https://img.shields.io/github/last-commit/sktx1216/kis-auto-trading-template?style=for-the-badge&logo=github&label=kis-auto-trading-template)
