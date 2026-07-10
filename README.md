@@ -29,9 +29,7 @@
 
 [Live Dashboard](https://sktx-hub.vercel.app)
 
-주식 포트폴리오, 현금 흐름, 투자 손익을 GitHub JSON 기반으로 자동 시각화하는 포트폴리오 대시보드입니다.
-
-<sub>README에서는 JavaScript fetch 대신 SVG API 이미지 URL을 직접 사용합니다. 캐시 갱신이 필요하면 <code>/api/readme-portfolio?v=20260710</code>처럼 쿼리스트링을 바꿔주세요.</sub>
+Stock portfolio dashboard that automatically visualizes portfolio allocation, cash flow, and investment P/L from GitHub-hosted JSON data.
 
 ## Repository Metrics
 
