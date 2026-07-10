@@ -25,9 +25,9 @@
 
 ## sktx-hub
 
-![Portfolio Summary](https://YOUR-VERCEL-DOMAIN.vercel.app/api/readme-portfolio?v=20260710)
+![Portfolio Summary](https://sktx-hub.vercel.app/api/readme-portfolio?v=20260710)
 
-[Live Dashboard](https://YOUR-VERCEL-DOMAIN.vercel.app)
+[Live Dashboard](https://sktx-hub.vercel.app)
 
 주식 포트폴리오, 현금 흐름, 투자 손익을 GitHub JSON 기반으로 자동 시각화하는 포트폴리오 대시보드입니다.
 
